@@ -1,0 +1,15 @@
+D:\Mirk\GB\Seminars\Seminars1\Task8\obj\Debug\net6.0\Task8.csproj.AssemblyReference.cache
+D:\Mirk\GB\Seminars\Seminars1\Task8\obj\Debug\net6.0\Task8.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mirk\GB\Seminars\Seminars1\Task8\obj\Debug\net6.0\Task8.AssemblyInfoInputs.cache
+D:\Mirk\GB\Seminars\Seminars1\Task8\obj\Debug\net6.0\Task8.AssemblyInfo.cs
+D:\Mirk\GB\Seminars\Seminars1\Task8\obj\Debug\net6.0\Task8.csproj.CoreCompileInputs.cache
+D:\Mirk\GB\Seminars\Seminars1\Task8\bin\Debug\net6.0\Task8.exe
+D:\Mirk\GB\Seminars\Seminars1\Task8\bin\Debug\net6.0\Task8.deps.json
+D:\Mirk\GB\Seminars\Seminars1\Task8\bin\Debug\net6.0\Task8.runtimeconfig.json
+D:\Mirk\GB\Seminars\Seminars1\Task8\bin\Debug\net6.0\Task8.dll
+D:\Mirk\GB\Seminars\Seminars1\Task8\bin\Debug\net6.0\ref\Task8.dll
+D:\Mirk\GB\Seminars\Seminars1\Task8\bin\Debug\net6.0\Task8.pdb
+D:\Mirk\GB\Seminars\Seminars1\Task8\obj\Debug\net6.0\Task8.dll
+D:\Mirk\GB\Seminars\Seminars1\Task8\obj\Debug\net6.0\ref\Task8.dll
+D:\Mirk\GB\Seminars\Seminars1\Task8\obj\Debug\net6.0\Task8.pdb
+D:\Mirk\GB\Seminars\Seminars1\Task8\obj\Debug\net6.0\Task8.genruntimeconfig.cache
